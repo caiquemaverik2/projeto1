@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>Palmas-TO</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/estilo.css">
+	<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+</head>
+<body>
+	<div id="tudo">
+		<div id="menu">
+			<nav>
+				<ul>
+					<li><a href="#sobre">Sobre</a></li>
+					<li><a href="#esplazer">Espaços para Lazer</a></li>
+					<li><a href="#oncomer">Onde Comer</a></li>
+					<li><a href="#ondhospedar">Onde se Hospedar</a></li>
+					<li><A href="#contato">Contado</a></li>
+				</ul>
+			</nav>
+		</div>
+
+		<header>
+			<div id="cabecalho">
+				<h1>Palmas-TO</h1>
+				<img src="img/palmas.jpg" alt="Palmas_TO" style="width:350px; height:266px;">
+			</div>
+        </header>
+        <article class="assunto">
+        <h2 id = "sobre">Sobre</h2>
+            <p>Palmas foi criada em dia 20 de maio de 1989, logo após a 
+            criação do Estado do Tocantins pela Constituição Federal 
+            de 1988. Entretanto, somente a partir do dia 1° de janeiro 
+            de 1990, Palmas passou a ser a capital definitiva do Tocantins.</p>
+        </article>
+        <section class="assunto">
+        <h2 id = "esplazer">Espaços para Lazer</h2>  
+            <p>- o Parque Cesamar, que tem uma ampla área para caminhada, 
+            aparelhos de academia ao ar livre, lago onde se pode praticar 
+            canoagem e pedalinho, além de quiosque com comercialização de 
+            bebidas e alimentos; </p>
+            
+            <p>- várias Cachoeiras com quedas de aproximadamente 60 mt de 
+            altura que terminam numa piscina natural com água cristalina 
+            e gelada na região de Taquaruçu, distrito da Capital; </p>
+
+            <p> - a Praça dos Girassóis, onde fica o Palácio Araguaia - sede do 
+                Governo Estadual, além das sedes dos Poderes Legislativo e Judiciário 
+                do Tocantins. A Praça dos Girassóis também é centro do Plano Diretor 
+                de Palmas e o Centro Geodésico do Brasil;</p>
+                
+            <p> - Praia da Graciosa, Praia do Buriti, Praia do Prata, Praia do Caju e 
+                Praia das Arnos, todas montadas às margens do Lago de Palmas/Rio Tocantins.</p> 
+        </section>
+        <section class="assunto">
+        <h2 id = "oncomer">Onde Comer</h2>
+            <p> - a Feira do Bosque, que acontece aos domingos, das 16h às 
+            21h, no Bosque dos Pioneiros e que já se tornou uma tradição 
+            para a família palmense; </p>
+        </section>
+        <section class="assunto">
+            <h2 id = "ondhospedar">Onde se Hospedar</h2>   
+        <table>
+            <tr>
+                <th colspan="2">HOTEIS</th>
+            </tr>
+            <tr>
+                <td><a href = "https://www.google.com/travel/hotels/Palmas/entity/CgoIyvTkoeHlicw2EAEaXkFHWklFZ2FEUi1MVUNKOEFqQU1Wc0FqcGZENm9leV9TajJSNGhZclpDbHZHdHI1blkwaXpmdmNDdFlTRkZwYjNQd2kwYVNFNlE2cG14R3otT1BwdTBhX3hUeFFldWc?g2lb=2502548%2C4258168%2C4270442%2C4306835%2C4317915%2C4328159%2C4371334%2C4401769%2C4419364%2C4429192%2C4433754%2C4448294%2C4456077%2C4463263%2C4464074%2C4464463%2C4466981%2C4270859%2C4284970%2C4291517%2C4464910&hl=pt-BR&gl=br&un=1&ap=aAE&q=hospedagem%20em%20palmas&rp=EJ_p2KCY8vu2bRDK9OSh4eWJzDYQzfmnsr3SpZL3ARCrp9Hl1eTO5e0BOAFAAEgCogEKUGFsbWFzLCBUTw&ictx=1&sa=X&ved=2ahUKEwiSsOat4p3tAhVVANQKHe8vCEkQyvcEegUIARCMAQ&utm_campaign=sharing&utm_medium=link&utm_source=htls&hrf=CgUIkAMQACIDQlJMKhYKBwjkDxALGBoSBwjkDxALGBsYASgAsAEAWAFoAZoBDBIKUGFsbWFzLCBUT6IBEwoJL20vMDducHB6EgZQYWxtYXOqAQ4KAgghEgIIFRICCGcYAaoBCwoDCOECEgIIYxgBkgECIAE" target="_blank">IBIS PALMAS AVENIDA JK</a></td>
+                <td><a href = "https://www.google.com/travel/hotels/Palmas/entity/CgsI0Nidpb2N84zrARABGl9BR1pJRWdaVDVtUTk3dzVfTTlJUDgxRXJqblJQQ0NxOWswTW5VNlA1V0gxbFZDam1wZU1GZ3Z0TkN0NVczTDRSQTF0TThDSVNaaGgzRHB4Ykg3dWpLVnJLd2NHdktjcw?g2lb=2502548%2C4258168%2C4270442%2C4306835%2C4317915%2C4328159%2C4371334%2C4401769%2C4419364%2C4429192%2C4433754%2C4448294%2C4456077%2C4463263%2C4464074%2C4464463%2C4466981%2C4270859%2C4284970%2C4291517%2C4464910&hl=pt-BR&gl=br&un=1&ap=aAE&q=hospedagem%20em%20palmas&rp=EJ_p2KCY8vu2bRDK9OSh4eWJzDYQzfmnsr3SpZL3ARCrp9Hl1eTO5e0BOAFAAEgCogEKUGFsbWFzLCBUTw&ictx=1&sa=X&ved=2ahUKEwiSsOat4p3tAhVVANQKHe8vCEkQyvcEegUIARCiAQ&utm_campaign=sharing&utm_medium=link&utm_source=htls&hrf=CgUIkAMQACIDQlJMKhYKBwjkDxALGBoSBwjkDxALGBsYASgAsAEAWAFoAZoBDBIKUGFsbWFzLCBUT6IBEwoJL20vMDducHB6EgZQYWxtYXOqAQ4KAgghEgIIFRICCGcYAaoBCwoDCOECEgIIYxgBkgECIAE" target="_blank">HOTEL LAGO DA PALMA</a></td>
+            </tr>
+            <tr>
+                <td><a href = "" target="_blank">HOTEL LAGO DA PALMA</a></td>
+                <td><a href = "" target="_blank">HOTEL LAGO DA PALMA</a></td>
+            </tr>
+        </table>
+
+        https://www.google.com/travel/hotels/Palmas?g2lb=2502548%2C4258168%2C4270442%2C4306835%2C4317915%2C4328159%2C4371334%2C4401769%2C4419364%2C4429192%2C4433754%2C4448294%2C4456077%2C4463263%2C4464074%2C4464463%2C4466981%2C4270859%2C4284970%2C4291517%2C4464910&hl=pt-BR&gl=br&un=1&ap=aAE&q=hospedagem%20em%20palmas&rp=EJ_p2KCY8vu2bRDK9OSh4eWJzDYQzfmnsr3SpZL3ARCrp9Hl1eTO5e0BOAFAAEgCogEKUGFsbWFzLCBUTw&ictx=1&sa=X&ved=0CAAQ5JsGahcKEwj40oeEhJztAhUAAAAAHQAAAAAQBg&utm_campaign=sharing&utm_medium=link&utm_source=htls&hrf=CgUIkAMQACIDQlJMKhYKBwjkDxALGBoSBwjkDxALGBsYASgAsAEAWAFoAZoBDBIKUGFsbWFzLCBUT6IBEwoJL20vMDducHB6EgZQYWxtYXOqAQ4KAgghEgIIFRICCGcYAaoBCwoDCOECEgIIYxgBkgECIAE
+        </section>
+        <footer>
+			<h3 id = "contato">Contato</h3>
+			<address>E-mail: <a href="mailto:caique.silva@estudante.ifto.edu.br?subject=Assunto">caique.silva@estudante.ifto.edu.br</a></address>
+			<address>Fone: <a href="https://api.whatsapp.com/send?phone=5563992300039&text=sua%20mensagem">Whatsapp</a></address>
+			<address>Social: <a href="https://www.instagram.com/caiquemaverik/">@caiquemaverik</a></address>
+        </footer>
+	</div>
+</body>
+</html>
